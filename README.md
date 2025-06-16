@@ -2,7 +2,7 @@
 <h3 align="center">I ❤️ cats.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wikia.nocookie.net/glee/images/2/27/Burn_computer.gif/revision/latest?cb=20121109111615.gif">
 
-- I’m currently learning **Rust, TypeScript, C#, Unity, React, .NET , Docker, etc. Good programer always learning.😢**
+- I’m currently learning **Rust, TypeScript, React, Flutter , Docker, etc. Good programer is always learning.😢**
 
 <p align="left">
 </p>
