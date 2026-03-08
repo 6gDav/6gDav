@@ -40,7 +40,7 @@ I 🔥 at making awfull GitHub profiles.
 
 <hr>
 
-I 😠 vide codeing because Ai can't do anything and I fuck my code every single time when I want to change the world with Ai. 
+I 😠 vide codeing because Ai can't do anything and I fuck my code every single time when I want to change the world with it. 
 
 <hr>
 
