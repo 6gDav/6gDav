@@ -10,7 +10,7 @@
 <hr>
 
 🥳 I'm x∈N years olds. <br>
-👦 I have X && and Y cromosome so I identify as a male **Homo Sapiens**.
+👦 I have X && an Y cromosome so I identify as a male **Homo Sapiens**.
 
 <hr>
 
