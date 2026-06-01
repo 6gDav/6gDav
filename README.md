@@ -9,8 +9,8 @@
 
 <hr>
 
-🥳 I'm x∈N years olds. <br>
-👦 I have X && an Y cromosome so I identify as a male **Homo Sapiens**. <br>
+🥳 I'm x∈N years old. <br>
+👦 I have X && an Y chromosome so I identify as a male **Homo Sapiens**. <br>
 🕷️ I have a freaking tarantula 2.5 meters away from my bed. *(My mom yelled at me for 3 straight hours because of her.)*
 
 <hr>
@@ -32,7 +32,7 @@
 ### Best thing in life:
 
 Your mama's Schnitzel. ❌ <br>
-Rust code compalies down. ❎
+Rust code compiles down. ❎
 
 <hr>
 
