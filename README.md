@@ -30,8 +30,10 @@
 
 ### Best thing in life:
 
-Your mama's Schnitzel. ❌
+Your mama's Schnitzel. ❌ <br>
 Rust code compalies down. ❎
+
+<hr>
 
 I ❤️ cats. <br>
 I ❤️ Pho soup. <br>
