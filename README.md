@@ -24,12 +24,15 @@
 <hr>
 
 🎓 I'm currently torturing myself at [Eszterházy Károly Catholic University](https://uni-eszterhazy.hu/) (the Harvard of Eger).<br>
-🧑‍💻 I'm mainly a hobby software developer.<br>
-🧳 Just a 😞 citizen of the proudly rotting Hungarian democracy. *(Day many planning my escape.)*<br>
+🧑‍💻 I'm mainly a hobby software developer who want to be a not a hobby software developer.<br>
 
 <hr>
 
-I hate my life, but I hate Rust borrow checker more. 🦀<br>
+### Best thing in life:
+
+Your mama's Schnitzel. ❌
+Rust code compalies down. ❎
+
 I ❤️ cats. <br>
 I ❤️ Pho soup. <br>
 I ❤️ reading. <br>
