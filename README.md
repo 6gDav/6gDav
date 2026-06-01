@@ -11,6 +11,7 @@
 
 🥳 I'm x∈N years olds. <br>
 👦 I have X && an Y cromosome so I identify as a male **Homo Sapiens**.
+🕷️ I have a freaking tarantula 2.5 meters away from my bed. *(My mom yells at me for 3 straight hours because of her.)*
 
 <hr>
 
